@@ -1,0 +1,8 @@
+Per-class (precision/recall/f1/support):
+
+      NORMAL: P=0.953 R=0.521 F1=0.674 N=234
+   PNEUMONIA: P=0.774 R=0.985 F1=0.867 N=390
+
+accuracy   : 0.811
+   macro avg: P=0.864 R=0.753 F1=0.770 N=624
+weighted avg: P=0.841 R=0.811 F1=0.795 N=624
